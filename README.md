@@ -1,5 +1,3 @@
-# Skills I use
-
 This is a collection of Claude Code & Codex skills I’ve been using recently. It’s an evolving repo that I plan to continuously improve and expand.
 
 >Most of these skills are based on publicly available work from other creators on GitHub. I’ve modified some to suit my workflow, and built a few entirely from scratch.
