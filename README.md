@@ -1,8 +1,8 @@
 # Skills I use
 
-These are the Claude Code and Codex skills I use in my recent work.
+This is a collection of Claude Code & Codex skills I’ve been using recently. It’s an evolving repo that I plan to continuously improve and expand.
 
-Most of these skills started in popular public repositories. I modified some of them to fit my workflow.
+>Most of these skills are based on publicly available work from other creators on GitHub. I’ve modified some to suit my workflow, and built a few entirely from scratch.
 
 Use the command for your agent, or mention the skill name in your request.
 
